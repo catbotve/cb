@@ -76,7 +76,7 @@ body {
  * links - (_document-setup) 
  * ------------------------------------------------------------------- */
 a, a:visited {
-  color: #07617d;
+  color: #33cccc;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
@@ -85,7 +85,7 @@ a, a:visited {
 }
 
 a:hover, a:focus {
-  color: #000000;
+  color: #ffffff;
 }
 
 
@@ -1786,13 +1786,13 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   max-width: 850px;
 }
 #about span {
-  color: #07617d;
+  color: #33cccc;
 }
 #about h3 {
   font-family: "montserrat-bold", sans-serif;
   font-size: 1.8rem;
   line-height: 1.667;
-  color: #07617d;
+  color: #33cccc;
   text-transform: uppercase;
   letter-spacing: .3rem;
   position: relative;
@@ -1918,13 +1918,13 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d9000000', endColorstr='#00000000',GradientType=0 );
 }
 #services .section-intro h3 {
-  color: rgba(242, 242, 242, 0.5);
+  color: #33cccc;
 }
 #services .section-intro h1 {
   color: #FFFFFF;
 }
 #services .section-intro .lead {
-  color: rgba(242, 242, 242, 0.4);
+  color: #999999;
 }
 #services .services-content {
   text-align: center;
@@ -1939,7 +1939,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   padding: 0 50px;
 }
 #services .services-list .service-item p {
-  color: rgba(242, 242, 242, 0.5);
+  color: #999999;
 }
 #services .services-list .icon {
   display: inline-block;
@@ -1947,7 +1947,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 #services .services-list .icon i {
   font-size: 5.4rem;
-  color: #f9a828;
+  color: #33cccc;
 }
 #services .services-list .h05 {
   font-size: 1.7rem;
@@ -2272,7 +2272,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   font-family: "montserrat-bold", sans-serif;
   font-size: 1.8rem;
   line-height: 1.667;
-  color: #07617d;
+  color: #33cccc;
   text-transform: uppercase;
   letter-spacing: .3rem;
   position: relative;
@@ -2296,7 +2296,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   font-family: "librebaskerville-bold", serif;
   font-size: 3rem;
   line-height: 1.8;
-  color: #151515;
+  color: #999999;
 }
 #testimonial-slider p::before, #testimonial-slider p::after {
   display: inline-block;
