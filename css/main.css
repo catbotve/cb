@@ -76,7 +76,7 @@ body {
  * links - (_document-setup) 
  * ------------------------------------------------------------------- */
 a, a:visited {
-  color: #33cccc;
+  color: #ffffff;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
@@ -85,7 +85,7 @@ a, a:visited {
 }
 
 a:hover, a:focus {
-  color: #ffffff;
+  color: #33cccc;
 }
 
 
@@ -2329,7 +2329,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   font-size: 2rem;
   margin-top: .9rem;
   margin-bottom: 3rem;
-  color: #151515;
+  color: #000000;
 }
 #testimonial-slider .testimonial-author .author-info span {
   display: block;
@@ -2338,7 +2338,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   line-height: 1.313;
   letter-spacing: 0;
   text-transform: none;
-  color: rgba(0, 0, 0, 0.5);
+  color: #666666;
   margin-top: .3rem;
 }
 
@@ -2359,7 +2359,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 #testimonials .flex-control-paging li a {
   width: 9px;
   height: 9px;
-  background-color: #959595;
+  background-color: #999999;
   display: block;
   cursor: pointer;
   border-radius: 50%;
@@ -2368,10 +2368,10 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   color: transparent;
 }
 #testimonials .flex-control-paging li a:hover {
-  background-color: #555555;
+  background-color: #ffffff;
 }
 #testimonials .flex-control-paging li a.flex-active {
-  background-color: #000000;
+  background-color: #33cccc;
 }
 
 /* ------------------------------------------------------------------- 
@@ -2489,7 +2489,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 #clients .owl-carousel .owl-dots .owl-dot span {
   width: 9px;
   height: 9px;
-  background-color: #959595;
+  background-color: #999999;
   margin: 6px 6px;
   display: block;
   -webkit-backface-visibility: visible;
@@ -2498,7 +2498,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 #clients .owl-carousel .owl-dots .owl-dot.active span,
 #clients .owl-carousel .owl-dots .owl-dot:hover span {
-  background-color: #000000;
+  background-color: #33cccc;
 }
 
 
@@ -2530,10 +2530,10 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   color: white;
 }
 #contact .section-intro h3 {
-  color: rgba(242, 242, 242, 0.5);
+  color: #33cccc;
 }
 #contact .section-intro p.lead {
-  color: rgba(242, 242, 242, 0.4);
+  color: #999999;
 }
 
 .contact-content {
@@ -2647,12 +2647,12 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   line-height: 6rem;
   padding: 0 3rem;
   width: 100%;
-  background: #f9a828;
-  color: #000000;
+  background: #33cccc;
+  color: #ffffff;
   margin-top: .6rem;
 }
 #contact button.submitform:hover, #contact button.submitform:focus {
-  background: #f89e0f;
+  background: #25d366;
 }
 
 #message-warning, #message-success {
@@ -2807,16 +2807,16 @@ footer {
   color: rgba(255, 255, 255, 0.4);
 }
 footer a, footer a:visited {
-  color: #FFFFFF;
+  color: #33cccc;
 }
 footer a:hover, footer a:focus {
-  color: #f9a828;
+  color: #ffffff;
 }
 footer .row {
   max-width: 1024px;
 }
 footer h4.h05 {
-  color: #FFFFFF;
+  color: #33cccc;
   position: relative;
   padding-bottom: 4.2rem;
   margin-bottom: 3.6rem;
