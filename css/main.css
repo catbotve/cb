@@ -491,7 +491,7 @@ td:last-child {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #0F1215;
+  background: #666666;
   z-index: 800;
   height: 100%;
   width: 100%;
@@ -510,7 +510,7 @@ td:last-child {
   margin-left: -30px;
   margin-top: -30px;
   padding: 0;
-  background-color: #f9a828;
+  background-color: #33cccc;
   border-radius: 100%;
   -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
   animation: sk-scaleout 1.0s infinite ease-in-out;
@@ -1297,7 +1297,7 @@ header .header-logo a {
   transition: all 0.3s ease-in-out;
 }
 #header-menu-trigger.opaque {
-  background-color: #000000;
+  background-color: #33cccc;
 }
 #header-menu-trigger.opaque .header-menu-text {
   background-color: #000000;
@@ -2807,10 +2807,10 @@ footer {
   color: rgba(255, 255, 255, 0.4);
 }
 footer a, footer a:visited {
-  color: #33cccc;
+  color: #ffffff;
 }
 footer a:hover, footer a:focus {
-  color: #ffffff;
+  color: #33cccc;
 }
 footer .row {
   max-width: 1024px;
@@ -2847,7 +2847,7 @@ footer h4.h05::after {
   padding-left: 0;
 }
 .footer-main ul a, .footer-main ul a:visited {
-  color: rgba(255, 255, 255, 0.4);
+  color: #ffffff;
 }
 .footer-main ul a:hover, .footer-main ul a:focus {
   color: #FFFFFF;
