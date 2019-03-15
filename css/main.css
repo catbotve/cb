@@ -1402,12 +1402,12 @@ header .header-logo a {
   border-top: 1px dotted rgba(255, 255, 255, 0.03);
 }
 #menu-nav-wrap .nav-list li a {
-  color: rgba(255, 255, 255, 0.25);
+  color: #999999;
   display: block;
 }
 #menu-nav-wrap .nav-list li a:hover, 
 #menu-nav-wrap .nav-list li a:focus {
-  color: white;
+  color: #33cccc;
 }
 #menu-nav-wrap .header-social-list {
   list-style: none;
@@ -1421,7 +1421,7 @@ header .header-logo a {
   display: inline-block;
 }
 #menu-nav-wrap .header-social-list li a {
-  color: rgba(255, 255, 255, 0.15);
+  color: #33cccc;
 }
 #menu-nav-wrap .header-social-list li a:hover, 
 #menu-nav-wrap .header-social-list li a:focus {
@@ -1449,7 +1449,7 @@ header .header-logo a {
   display: block;
   height: 2px;
   width: 12px;
-  background-color: #fff;
+  background-color: #33cccc;
   position: absolute;
   top: 50%;
   left: 9px;
