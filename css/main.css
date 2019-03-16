@@ -2944,12 +2944,12 @@ footer h4.h05::after {
   line-height: inherit;
 }
 #go-top a:visited {
-  background: #000000;
-  color: #888;
+  background: rgba(51,204,204,0.80);
+  color: rgba(255,255,255,0.80);
 }
 #go-top a:hover, #go-top a:focus {
-  background: #000000;
-  color: #FFFFFF;
+  background: rgba(0,0,0,0.80);
+  color: rgba(255,255,255,0.80);
 }
 
 /* ------------------------------------------------------------------- 
