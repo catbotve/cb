@@ -2916,9 +2916,9 @@ footer h4.h05::after {
 
 #go-top {
   position: fixed;
-  bottom: 84px;
-  right: 60px;
-  z-index: 1400;
+  bottom: 42px;
+  right: 15px;
+  z-index: 700;
   display: none;
 }
 #go-top a {
