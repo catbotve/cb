@@ -471,7 +471,7 @@ td:last-child {
 }
 
 .pace .pace-progress {
-  background: #f9a828;
+  background: #33cccc;
   position: fixed;
   z-index: 900;
   top: 0;
@@ -491,7 +491,7 @@ td:last-child {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #666666;
+  background: rgba(102,102,102,0.80);
   z-index: 800;
   height: 100%;
   width: 100%;
@@ -510,7 +510,7 @@ td:last-child {
   margin-left: -30px;
   margin-top: -30px;
   padding: 0;
-  background-color: #33cccc;
+  background-color: rgba(51,204,204,0.80);
   border-radius: 100%;
   -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
   animation: sk-scaleout 1.0s infinite ease-in-out;
@@ -1297,10 +1297,10 @@ header .header-logo a {
   transition: all 0.3s ease-in-out;
 }
 #header-menu-trigger.opaque {
-  background-color: #33cccc;
+  background-color: rgba(51,204,204,0.80);
 }
 #header-menu-trigger.opaque .header-menu-text {
-  background-color: #000000;
+  background-color: rgba(0,0,0,0.80);
 }
 #header-menu-trigger:hover, #header-menu-trigger:focus {
   color: #FFFFFF;
