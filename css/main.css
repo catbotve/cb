@@ -2929,8 +2929,8 @@ footer h4.h05::after {
   width: 60px;
   line-height: 63px;
   text-align: center;
-  background-color: #000000;
-  color: #888;
+  background-color: rgba(51,204,204,0.80);
+  color: rgba(255,255,255,0.80);
   text-align: center;
   text-transform: uppercase;
   -moz-transition: all 0.3s ease-in-out;
