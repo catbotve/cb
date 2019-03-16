@@ -2916,7 +2916,7 @@ footer h4.h05::after {
 
 #go-top {
   position: fixed;
-  bottom: 42px;
+  bottom: 22px;
   right: 30px;
   z-index: 700;
   display: none;
