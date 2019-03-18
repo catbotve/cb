@@ -2014,13 +2014,13 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   background: #111111;
 }
 #portfolio .section-intro h3 {
-  color: rgba(242, 242, 242, 0.5);
+  color: #33cccc;
 }
 #portfolio .section-intro h1 {
   color: #FFFFFF;
 }
 #portfolio .section-intro .lead {
-  color: rgba(242, 242, 242, 0.4);
+  color: #999999;
 }
 #portfolio .portfolio-content {
   margin-top: -22.2rem;
