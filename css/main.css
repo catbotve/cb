@@ -1512,9 +1512,11 @@ header .header-logo a {
   background-color: #151515;
   background-image: url(../images/hero-bg.jpg);
   background-repeat: no-repeat;
-  background-position: center 30%;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
+  background-position: center;
+  -webkit-background-size: cover;
+  -webkit-background-position: center;
+  -moz-background-size: cover;
+  -moz-background-position: center;
   background-size: cover;
   background-attachment: fixed;
   min-height: 804px;
