@@ -780,7 +780,7 @@ input[type="button"].button-primary:focus {
   color: #ffffff
 }
 
-button.full-width, .button.full-width {
+button.lg, .button.lg {
   width: 100%;
   margin-right: 0;
 }
