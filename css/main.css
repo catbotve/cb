@@ -762,7 +762,7 @@ input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
   background: #ffffff;
-  color: #0433ff;
+  color: #33cccc;
 }
 
 .button.button-primary:hover,
