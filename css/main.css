@@ -96,7 +96,7 @@ a:hover, a:focus {
 h1, h2, h3, h4, h5, h6,
 .h01, .h02, .h03, .h04, .h05, .h06 {
   font-family: "montserrat-bold", sans-serif;
-  color: #000000;
+  color: #ffffff;
   font-style: normal;
   text-rendering: optimizeLegibility;
   margin-bottom: 2.1rem;
@@ -428,7 +428,7 @@ th,
 td {
   padding: 1.5rem 3rem;
   text-align: left;
-  border-bottom: 1px solid #999999;
+  border-bottom: 1px solid #ffffff;
 }
 
 th {
